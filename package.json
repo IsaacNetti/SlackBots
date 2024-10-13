@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@google-cloud/pubsub": "^4.7.2",
+    "@slack/web-api": "^7.6.0",
+    "firebase": "^10.14.1",
+    "firebase-functions": "^6.0.1"
+  },
+  "name": "slackbots",
+  "version": "1.0.0",
+  "description": "Our bots",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
